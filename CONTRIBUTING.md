@@ -4,8 +4,9 @@ Guidelines for developing and contributing to this project.
 
 ## List of project maintainers
 
-- [Your Name](Your GitHub User URL)
-
+- [Matthew Hausknecht](https://github.com/mhauskn-dr)
+- [Alex Conway](https://github.com/alex-dr)
+- [Mark Steadman](https://github.com/DRMetaplectic)
 
 ## Opening new issues
 
